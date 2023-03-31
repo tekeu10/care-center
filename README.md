@@ -1,11 +1,13 @@
-# care-center
+# care-center 
+# bracelet connecté
+# device object
 
 
 
+  Rédigé et présenté par Tekeu kanmini Loïc Cabrel 
+  
 
-  Rédigé et présenté par MAGNE Ida Julienne
-  AMELIORATION D’UNE PLATEFORME NUMERIQUE D’ACCES AUX SOINS DE SANTE A TRAVERS
-  UN BRACELET CONNECTE: ASPECT DEVELOPPEMENT WEB
+
   La télémédecine regroupe les pratiques médicales permises ou facilitées par les
   télécommunications. C’est un exercice de la médecine par le biais des télécommunications et
   des technologies qui permettent les prestations de santé à distance et l’échange de l‘information
@@ -20,9 +22,4 @@
   de tous les patients afin d’éviter les pertes de suivi médical des malades et l’absence d’archivage
   médical. C’est dans cette optique que travailler sur « conception D’UNE
   PLATEFORME NUMERIQUE D’ACCES AUX SOINS DE SANTE A TRAVERS UN
-  BRACELET CONNECTE : ASPECT APPLICATION WEB ». Afin de bien structurer
-  notre travail, nous l’avons segmenté en quatre chapitres : dans le premier chapitre, nous allons
-  faire une brève description du projet, au deuxième chapitre, nous allons présenter l’analyse de
-  notre thème c’est-à-dire analyse fonctionnelle et technique, puis au troisième chapitre
-  l’implémentation ainsi que les résultats obtenus et en fin le quatrième chapitre, les apports, les
-  difficultés, les leçons et les perspectives envisagées.
+  BRACELET CONNECTE : ASPECT APPLICATION WEB ». 
